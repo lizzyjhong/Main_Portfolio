@@ -4851,7 +4851,7 @@ table.alt tbody tr td {
 	justify-content: center;
 	background-attachment: fixed;
 	background-image: url("/images/pexels-anni-roenkae-3109793.jpg");
-	background-position: center;
+	background-position: bottom left;
 	background-size: cover;
 	border-top: solid 10px #ff887b;
 	min-height: 75vh;
@@ -4986,7 +4986,7 @@ table.alt tbody tr td {
 	padding-top: 3.5em;
 }
 
-#banner:before {
+/* #banner:before {
 	-moz-transition: opacity 1s ease-in-out;
 	-webkit-transition: opacity 1s ease-in-out;
 	-ms-transition: opacity 1s ease-in-out;
@@ -5004,7 +5004,7 @@ table.alt tbody tr td {
 	position: absolute;
 	top: 0;
 	width: 100%;
-}
+} */
 
 body.is-preload #banner>.inner {
 	-moz-transform: translateY(0.75em);
